@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour&display=swap');
+
+body{
+    background-color: #9F44D3;
+    font-family: 'Sixtyfour', sans-serif;
+}
+
+.p1{
+  margin-left: 117px;
+}
+
+.p2{
+  margin-left: 84px;
+}
+
+button {
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 40px;
+    margin-right: 43px;
+ 
+
+}
+
+#principal{
+    margin-left: 502px;
+    margin-top: 150px;
+  
+}
+
+#info{
+
+}
+
+img{
+  width: 301px;
+  height: 200px;
+  margin-left: 13px;
+}
+
+.botoes{
+  display: flex;
+  justify-content: space-around;
+  width: 46%;
+}
